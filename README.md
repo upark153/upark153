@@ -1,5 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:64b3f4,100:64b3f4&height=300&section=header&text=UiYong%20Park&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:64b3f4,100:64b3f4&height=300&section=header&text=UiYong%20Park&fontSize=90&fontColor=fffefe)
 
-<h3 align="center">📂 Tech Stack 📂</h3>
-<p align="center"> Techs that I've used at least once </p>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
+<h3 align="center">📂 Development Environment and Library Used 📂</h3>
+<p align="center"> 🖥 <strong>OS( Operating System )</strong>  🖥</p>
+<p align="center"><img src="https://img.shields.io/badge/Windows10-3766AB?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp</p>
+<p align="center"> 📚 <strong>Languages</strong> 📚 </p>
+<p align="center"><img src="https://img.shields.io/badge/Python-21B352?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-3766AB?logo=C&style=flat-square&logoColor=white"/> </a><img src="https://img.shields.io/badge/C++-21B352?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/C%23-4B32C3?logo=Csharp&style=flat-square&logoColor=white"/></p>
+<p align="center"> 🔩 <strong>Framework</strong> 🔩 </p>
+<p align="center"><img src="https://img.shields.io/badge/Qt-21B352?style=flat-square&logo=Qt&logoColor=white"/> <img src="https://img.shields.io/badge/Winform-4B32C3?logo=.NET&style=flat-square&logoColor=white"/></p>
+<p align="center"> 📊 <strong>DBMS( Database Management System )</strong> 📊 </p>
+<p align="center"><img src="https://img.shields.io/badge/SQLite-66595C?style=flat-square&logo=Adminer&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-66595C?logo=MySQL&style=flat-square&logoColor=white"/></p>
+<p align="center"> 📑 <strong>Library</strong> 📑 </p>
+<p align="center"> <img src="https://img.shields.io/badge/CSV-66595C?logo=SQLite&style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAPI-66595C?logo=OpenAPI Initiative&style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-66595C?logo=JSON&style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-66595C?logo=NumPy&style=flat-square&logoColor=white"/><br><img src="https://img.shields.io/badge/TCP/IP-21B352?style=flat-square&logo=Betfair&logoColor=white"/> <img src="https://img.shields.io/badge/Socket-21B352?style=flat-square&logo=Socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Thread-21B352?style=flat-square&logo=Bookmeter&logoColor=white"/><br> <img src="https://img.shields.io/badge/OpenCV-4B32C3?logo=OpenCV&style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-4B32C3?logo=TensorFlow&style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-4B32C3?logo=Keras&style=flat-square&logoColor=white"/><br><img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white"/> <img src="https://img.shields.io/badge/PIL-064F8C?style=flat-square&logo=Power Pages&logoColor=white"/></p> 
+<p align="center"> 👩‍🚀 <strong>AI ( Artificial Intelligence )</strong> 👩‍🚀 </p>
+<p align="center"><img src="https://img.shields.io/badge/CNN-231F20?style=flat-square&logo=CNN&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-231F20?style=flat-square&logo=YOLO&logoColor=white"/>
+<p align="center"> 🔗 <strong>IDE ( Integrated Development Environment )</strong>  🔗 </p>
+<p align="center"><img src="https://img.shields.io/badge/PyCharm-21B352?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-3766AB?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-4B32C3?style=flat-square&logo=Visual Studio&logoColor=white"/> <br><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F37626?style=flat-square&logo=Google Colab&logoColor=white"/> <br> <img src="https://img.shields.io/badge/QtCreator-21B352?style=flat-square&logo=Qt&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-21B352?style=flat-square&logo=Qgis&logoColor=white"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:64b3f4&height=300&section=footer&fontSize=90" />
